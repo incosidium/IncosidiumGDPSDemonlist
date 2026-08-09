@@ -1,0 +1,54 @@
+/* Base Page Styling */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #121212;
+  color: #e0e0e0;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #ff4757;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-bottom: 2px solid #ff4757;
+  padding-bottom: 10px;
+}
+
+h2 {
+  color: #ffa502;
+  margin-top: 30px;
+}
+
+/* List Styling */
+ol {
+  background-color: #1e1e1e;
+  border-radius: 8px;
+  padding: 20px 20px 20px 40px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+li {
+  padding: 10px 0;
+  border-bottom: 1px solid #2ed;
+  border-bottom-color: #333;
+}
+
+li:last-child {
+  border-bottom: none;
+}
+
+/* Links */
+a {
+  color: #1e90ff;
+  text-decoration: none;
+  font-size: 0.9em;
+  margin-left: 8px;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #70a1ff;
+}
