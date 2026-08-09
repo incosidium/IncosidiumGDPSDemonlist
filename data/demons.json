@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Example Demon",
+    "verifier": "Person A",
+    "video": "https://youtube.com",
+    "points": 100,
+    "victors": ["Player1", "Player2"]
+  },
+  {
+    "id": 2,
+    "name": "Example Demon 2",
+    "verifier": "Person B",
+    "video": "https://youtube.com",
+    "points": 75,
+    "victors": ["Player1"]
+  }
+]
