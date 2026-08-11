@@ -1,27 +1,13 @@
 [
   {
     "id": 1,
-    "name": "Example Demon",
-    "levelId": "12345678",
-    "verifier": "Person A",
-    "video": "https://youtube.com",
+    "name": "Alarming",
+    "levelId": "106",
+    "verifier": "Incosidium",
+    "video": "https://youtu.be/D8w-6z3PdK0?si=jsAnwN1A2st0lp8p",
     "points": 100,
     "requirement": "100%",
     "victors": [
-      { "name": "Player1", "video": "https://youtube.com" },
-      { "name": "Player2", "video": "https://youtube.com" }
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Example Demon 2",
-    "levelId": "87654321",
-    "verifier": "Person B",
-    "video": "https://youtube.com",
-    "points": 75,
-    "requirement": "100%",
-    "victors": [
-      { "name": "Player1", "video": "https://youtube.com" }
-    ]
-  }
+      ]
+  },  
 ]
